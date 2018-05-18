@@ -1,3 +1,5 @@
+List of papers I have read.
+
 ## Generative Adversarial Networks
 - Generative Adversarial Networks (https://arxiv.org/abs/1406.2661)
   Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
