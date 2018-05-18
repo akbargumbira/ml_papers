@@ -11,3 +11,6 @@
 
 ## Image Retrieval
 - Deep Supervised Hashing for Fast Image Retrieval (http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf)
+
+## Object Detection
+- You Only Look Once: Unified, Real-Time Object Detection (https://arxiv.org/abs/1506.02640)
