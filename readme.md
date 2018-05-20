@@ -16,3 +16,4 @@ List of papers I have read.
 
 ## Object Detection
 - You Only Look Once: Unified, Real-Time Object Detection (https://arxiv.org/abs/1506.02640)
+- YOLO9000: Better, Faster, Stronger (https://arxiv.org/pdf/1612.08242.pdf)
