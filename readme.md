@@ -4,7 +4,7 @@ List of papers I have read.
 - Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient-based learning applied to document recognition,” Proceedings of the IEEE, vol. 86, pp. 2278–2324, Nov 1998
 - D. Lu and Q. Weng, “A survey of image classification methods and techniques for improving classification performance,” International Journal of Remote Sensing, vol. 28, no. 5, pp. 823–870, 2007.
 - S. Wu, L. Dong, H. Chen, and J. Zhan, “Application of image classification technology in mangrove information extraction,” in 2015 11th International Conference on Computational Intelligence and Security (CIS), pp. 167–170, Dec 2015.
-- Q. Li, W. Cai, X. Wang, Y. Zhou, D. D. Feng, and M. Chen, “Medical image classifica- tion with convolutional neural network,” in 2014 13th International Conference on Control Automation Robotics Vision (ICARCV), pp. 844–848, Dec 2014.
+- Q. Li, W. Cai, X. Wang, Y. Zhou, D. D. Feng, and M. Chen, “Medical image classification with convolutional neural network,” in 2014 13th International Conference on Control Automation Robotics Vision (ICARCV), pp. 844–848, Dec 2014.
 - J. Zhang, Y. Xia, Q. Wu, and Y. Xie, “Classification of medical images and illustrations in the biomedical literature using synergic deep learning,” CoRR, vol. abs/1706.09092, 2017.
 - L. J. Li and L. Fei-Fei, “What, where and who? classifying events by scene and object recognition,” in 2007 IEEE 11th International Conference on Computer Vision, pp. 1–8, Oct 2007.
 
