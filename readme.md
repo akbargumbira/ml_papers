@@ -7,6 +7,8 @@ List of papers I have read.
 - Q. Li, W. Cai, X. Wang, Y. Zhou, D. D. Feng, and M. Chen, “Medical image classifica- tion with convolutional neural network,” in 2014 13th International Conference on Control Automation Robotics Vision (ICARCV), pp. 844–848, Dec 2014.
 - J. Zhang, Y. Xia, Q. Wu, and Y. Xie, “Classification of medical images and illustrations in the biomedical literature using synergic deep learning,” CoRR, vol. abs/1706.09092, 2017.
 - L. J. Li and L. Fei-Fei, “What, where and who? classifying events by scene and object recognition,” in 2007 IEEE 11th International Conference on Computer Vision, pp. 1–8, Oct 2007.
+
+## Network Architecture
 - (AlexNet) A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classification with deep convolutional neural networks,” in Proceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1, NIPS’12, (USA), pp. 1097–1105, Curran Associates Inc., 2012.
 - (VGG) K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” CoRR, vol. abs/1409.1556, 2014.
 - (Inception) C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, “Going deeper with convolutions,” in 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 1–9, June 2015.
